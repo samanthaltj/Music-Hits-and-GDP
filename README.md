@@ -19,4 +19,4 @@ Gather economic insights via popular music trends throughout U.S. history.
 3. Correlate them and provide visuals in Tableau.
 
 # Next Steps
-- Explore other variables that may correlate to well-being and overall happines other more than GDP.
+- Explore other variables that may correlate to well-being and overall happines more than GDP.
