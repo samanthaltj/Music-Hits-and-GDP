@@ -2,13 +2,13 @@
 Using the Spotify Web API to find connections between popular songs and GDP throughout U.S. history.
 
 # Sorces
-Spotify Web API: https://developer.spotify.com/documentation/web-api/
+- Spotify Web API: https://developer.spotify.com/documentation/web-api/
 
-Billboard Top Year-End Singles Since 1946: https://open.spotify.com/playlist/1hhP3pj6Hm7XbaKzKoK6tE
+- Billboard Top Year-End Singles Since 1946: https://open.spotify.com/playlist/1hhP3pj6Hm7XbaKzKoK6tE
 
-"Rspotify": https://cran.r-project.org/web/packages/Rspotify/Rspotify.pdf
+- "Rspotify": https://cran.r-project.org/web/packages/Rspotify/Rspotify.pdf
 
-GDP Data: https://www.thebalance.com/u-s-gdp-growth-3306008
+- GDP Data: https://www.thebalance.com/u-s-gdp-growth-3306008
 
 # Goal
 Gather economic insights via popular music trends throughout U.S. history.
@@ -19,4 +19,4 @@ Gather economic insights via popular music trends throughout U.S. history.
 3. Correlate them and provide visuals in Tableau.
 
 # Next Steps
-- Explore other variables that may correlate to well-being and overall happines more than GDP.
+Explore other variables that may correlate to well-being and overall happines more than GDP.
